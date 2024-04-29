@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Lisa 🍀
 
-- 🔭 I’m currently working on a small informative web page with a friend.
-- 🌱 The most recent technology that I have worked with is [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
+- ☕ I’m currently working on a small informative web page with a friend.
+- 👩‍💻 The most recent technology that I have worked with is [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 - ⭐ Check out my most recently completed project: [eGreet](https://egreet.vercel.app/)!
 <br/>
 
